@@ -16,8 +16,12 @@ curl -s https://raw.githubusercontent.com/st3b1t/Satoshi.motd/main/times.txt | s
 service ssh reload
 ```
 
-3) star and share this repo!
+3) [tip me few sats](#donate) & share this repo!
 
 ## Result
 
 ![the times](times.gif)
+
+# Donate
+
+![](donate.png)
