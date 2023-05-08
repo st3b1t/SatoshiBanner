@@ -24,4 +24,5 @@ service ssh reload
 
 # Donate
 
+LNURL
 ![](donate.png)
