@@ -16,6 +16,8 @@ as root edit `/etc/ssh/sshd_config` uncomment or add the option `PrintMotd yes` 
 service ssh reload
 ```
 
+login in full node again
+
 ## Result
 
 ![the times](times.gif)
