@@ -10,6 +10,12 @@ Satoshi tribute for your Full Node SSH server motd(message of the day) or banner
 curl -s https://raw.githubusercontent.com/st3b1t/Satoshi.motd/main/times.txt | sudo tee /etc/motd.txt > /dev/null
 ```
 
+low height version
+
+```bash
+curl -s https://raw.githubusercontent.com/st3b1t/Satoshi.motd/main/times-short.txt | sudo tee /etc/motd.txt > /dev/null
+```
+
 2) as root edit `/etc/ssh/sshd_config` uncomment or add the option `PrintMotd yes` and restart ssh server
 
 ```
