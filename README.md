@@ -28,6 +28,11 @@ service ssh reload
 
 ![the times](times.gif)
 
+
+### Short version
+
+![the times](times-short.png)
+
 # Donate
 
 LNURL
