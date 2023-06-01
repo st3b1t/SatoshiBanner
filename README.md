@@ -33,13 +33,6 @@ service ssh reload
 
 ![the times](times-short.png)
 
-# Donate
-
-LNURL
-
-![](donate.png)
-
-
 # License
 
 MIT License
