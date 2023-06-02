@@ -22,7 +22,6 @@ curl -s https://raw.githubusercontent.com/st3b1t/Satoshi.motd/main/times-short.t
 service ssh reload
 ```
 
-3) [tip me few sats](#donate) & share this repo!
 
 ## Result
 
