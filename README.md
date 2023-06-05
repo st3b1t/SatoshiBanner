@@ -1,4 +1,4 @@
-# Satoshi.motd
+# Satoshi banner
 
 Satoshi tribute for your Linux Bitcoin Full Node SSH server motd(message of the day) or banner file
 
