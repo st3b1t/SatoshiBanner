@@ -22,15 +22,16 @@ curl -s https://raw.githubusercontent.com/st3b1t/Satoshi.motd/main/times-short.t
 service ssh reload
 ```
 
+### Short version
 
-## Result
+![the times](times-short.png)
+
+
+## Full screen Version
 
 ![the times](times.gif)
 
 
-### Short version
-
-![the times](times-short.png)
 
 # License
 
