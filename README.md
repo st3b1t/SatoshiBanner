@@ -7,13 +7,13 @@ Satoshi tribute for your Linux Bitcoin Full Node SSH server motd(message of the 
 1) login in your full node machine and run
 
 ```bash
-curl -s https://raw.githubusercontent.com/st3b1t/Satoshi.motd/main/times.txt | sudo tee /etc/motd.txt > /dev/null
+curl -s https://raw.githubusercontent.com/st3b1t/SatoshiBanner/main/times.txt | sudo tee /etc/motd.txt > /dev/null
 ```
 
 low height version
 
 ```bash
-curl -s https://raw.githubusercontent.com/st3b1t/Satoshi.motd/main/times-short.txt | sudo tee /etc/motd.txt > /dev/null
+curl -s https://raw.githubusercontent.com/st3b1t/SatoshiBanner/main/times-short.txt | sudo tee /etc/motd.txt > /dev/null
 ```
 
 2) as root edit `/etc/ssh/sshd_config` uncomment or add the option `PrintMotd yes` and restart ssh server
